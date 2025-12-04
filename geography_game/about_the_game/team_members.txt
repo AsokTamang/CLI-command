@@ -1,0 +1,10 @@
+AB, CEO and creative genius
+NN, hard-working intern
+IP, visual design
+VK, translation services
+TC, sound design
+
+
+
+//so -r means the recursive as we use rm -r 'any.js' for deleting the nonempty file called any.js
+//but for the empty file , we just code rm 'any.js'
