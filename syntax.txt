@@ -1,2 +1,7 @@
 so in gitbash , we can find anything using 
 find [path] -[name] or -[iname]  here i makes the name case insensitive or -[type d] for directory -[type f] for file and [expression]  here expression is the actual name of the text or file or directory
+mv is used for both renaming as well as moving the files and folders
+mv 'original name' 'new name'  
+mv 'original.txt' './capy'  this code moves the file called original.txt into a directory called capy
+//but for moving the folders
+mv -r ./geography_game ./capy    //this code moves the folder called geography_game into capy here -r stands for recursively copying
