@@ -1,0 +1,2 @@
+so in gitbash , we can find anything using 
+find [path] -[name] or -[iname]  here i makes the name case insensitive or -[type d] for directory -[type f] for file and [expression]  here expression is the actual name of the text or file or directory
