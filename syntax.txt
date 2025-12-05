@@ -39,3 +39,8 @@ and //-r for reverse sorting from [Z-A]
 
 
 //and we can also remove the duplicates in the file using the code uniq [filename]
+
+
+// * stands for wildcard 
+// | stands for pipe
+// > stands for redirect

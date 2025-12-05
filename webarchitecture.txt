@@ -1,0 +1,8 @@
+IP - internet protocal is the set of rules or protocals for transmitting(addressing,routing and delivering) the datas so called packets between the computers or clients across the internet or network
+TCP - Transmission control protocal is the set of rules which make sure that the transmitted packets of data across the internet doesnot get lost
+
+
+//for opening the dev tools , the short cut key is ctrl+shift+I
+
+//ping gives us the time taken and the number of data packets travelled between the client and the server
+//traceroute [domainname]
