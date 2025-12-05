@@ -38,3 +38,4 @@ sed 's/oldpattern/newpattern' [filename*] > [newfile]  here * stands for searchi
 and //-r for reverse sorting from [Z-A]
 
 
+//and we can also remove the duplicates in the file using the code uniq [filename]

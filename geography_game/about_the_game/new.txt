@@ -1,0 +1,13 @@
+//here we have sorted the file called team_members.txt using sort and then removed the duplicates using uniq and redirected here 
+//the code is like this
+ - sort team_members.txt | uniq > new.txt       
+ | is the symbol of pipe
+
+
+//but for the empty file , we just code rm 'any.js'
+//so -r means the recursive as we use rm -r 'any.js' for deleting the nonempty file called any.js
+AB, CEO and creative genius
+IP, visual design
+NN, hard-working intern
+TC, sound design
+VK, translation services
