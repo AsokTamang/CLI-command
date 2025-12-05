@@ -6,3 +6,5 @@ TCP - Transmission control protocal is the set of rules which make sure that the
 
 //ping gives us the time taken and the number of data packets travelled between the client and the server
 //traceroute [domainname] for linux and tracert [domainname] for windows is used for tracing the path of the data packets between the client and server which checks about any issue in the path. 
+
+//inorder to fetch the http header we use the code - curl -I https://www.google.com
