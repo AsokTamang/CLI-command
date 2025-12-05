@@ -28,4 +28,13 @@ sed -i 's/oldpattern/newpattern' [filename]   here -i means modifying the file
 //and also we can replace the pattern using sed and put the entire code in a new file using > code 
 sed 's/oldpattern/newpattern' [filename*] > [newfile]  here * stands for searching the pattern in the whole file called [newfile]
 
+//here wc stands for word count and we use the code wc [filname] for counting the words in a filename 
+
+
+//sorting method, we can code sort [filename] inorder to sort the file ,
+//by default the sorting method is based on alphabetic order from A-Z 
+//we also have variety of options for sorting ,
+//-n for numeric sorting based on 1 to any numbers 
+and //-r for reverse sorting from [Z-A]
+
 
