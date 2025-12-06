@@ -16,3 +16,6 @@ TCP - Transmission control protocal is the set of rules which make sure that the
 //ncat -vz google.com 443 command is used for checking whether the google network is open at port 443 or not
 
 //sysdm.cpl helps us to go to the advanced settings of our pc, so that we can add the downloaded files or folders in our system path which is found under the system varibles.
+
+
+//openssl s_client -connect google.com:443 creates a handshake between our pc which is a client and the google at the port 443
